@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[string]">
+    <Item>........a.......</Item>
+    <Item>........e3......</Item>
+    <Item>................</Item>
+    <Item>........2.......</Item>
+    <Item>........6.......</Item>
+    <Item>................</Item>
+    <Item>.0....Xxxx......</Item>
+    <Item>.7.45.xxxx......</Item>
+    <Item>......xxxx.8.b..</Item>
+    <Item>......xxxx....f.</Item>
+    <Item>................</Item>
+    <Item>......c1........</Item>
+    <Item>................</Item>
+    <Item>.R.....9........</Item>
+    <Item>.......d........</Item>
+    <Item>................</Item>
+  </Asset>
+</XnaContent>
