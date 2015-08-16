@@ -5,7 +5,7 @@ The April theme for [Experimental Gameplay Project] is [Wash, Rinse, and REPEAT]
 
 Download Executable
 ---
-[Push Puzzle.zip (6.69 MB)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/Push%20Puzzle.zip)
+[Push Puzzle.zip (6.69 MB)](https://github.com/BitSits/Push-Puzzle/raw/master/Windows%20Phone%20App/Push%20Puzzle.zip)
 
 
 Instructions
