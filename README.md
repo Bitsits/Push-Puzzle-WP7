@@ -22,3 +22,17 @@ Screenshots
 
 [Push Puzzle]: https://bitsits.blogspot.com/2010/04/push-puzzle.html
 [“Build Your Dreams with Windows Phone 7”]: http://www.microsoft.com/india/student/Buildyourdream.aspx
+
+[Blogger](https://www.bitsits.games/2011/04/push-puzzle-in-marketplace.html)
+
+Push Puzzle Trailer
+---
+
+A small trailer of Push Puzzle, my first experimental gameplay prototype.
+
+[![](http://i3.ytimg.com/vi/n22Df-4jPH8/hqdefault.jpg)][video]
+
+[Blogger](https://bitsits.blogspot.com/2011/09/push-puzzle-trailer.html)
+[YouTube][video]
+
+[video]:https://youtu.be/n22Df-4jPH8
