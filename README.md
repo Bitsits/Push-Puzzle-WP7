@@ -113,7 +113,10 @@ Push Puzzle Trailer
 
 A small trailer of Push Puzzle, my first experimental gameplay prototype.
 
-[![](http://i3.ytimg.com/vi/n22Df-4jPH8/hqdefault.jpg)][video]
+<!-- [![](http://i3.ytimg.com/vi/n22Df-4jPH8/hqdefault.jpg)][video] -->
+[![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Blog/MabC8lIM4LnPzuFVZD.gif)][video]
+
+<p><a href="https://giphy.com/gifs/demo-push-puzzle-bitsits-games-MabC8lIM4LnPzuFVZD">via GIPHY</a></p>
 
 [Blogger](https://bitsits.blogspot.com/2011/09/push-puzzle-trailer.html)
 [YouTube][video]
