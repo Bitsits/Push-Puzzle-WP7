@@ -2,7 +2,7 @@
 
 Push Puzzle
 ===
-The April theme for [Experimental Gameplay Project][project] is [Wash, Rinse, and REPEAT][theme].
+The April theme for [Experimental Gameplay Project] is [Wash, Rinse, and REPEAT][theme].
 
 Screenshots
 ---
@@ -61,13 +61,18 @@ Reviews
 [XNA Stater Kit: Platformer]: http://msdn.microsoft.com/en-us/library/dd254918.aspx
 [Microsoft Permissive License.rtf]: http://creators.xna.com/downloads/?id=15
 
+[MIT License]: http://www.opensource.org/licenses/mit-license.php
+[Creative Commons Sampling Plus 1.0 License]: http://creativecommons.org/licenses/sampling+/1.0/
+[Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic]: http://creativecommons.org/licenses/by-nc/2.0/
+[Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Brazil]: http://creativecommons.org/licenses/by-nc-sa/2.5/br/
+[Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-nd/3.0/
 [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 [Bitsits Games]: https://bitsits.blogspot.com
 [Shubhajit Saha]: https://suvozit.blogspot.com
 [Maya Agarwal]: https://mayaagarwal.blogspot.com
 
-[project]: http://experimentalgameplay.com/
+[Experimental Gameplay Project]: http://experimentalgameplay.com/
 [theme]: http://experimentalgameplay.com/blog/2010/04/in-april-wash-rinse-and-repeat/
 [zip]: https://github.com/BitSits/Push-Puzzle/raw/master/Windows%20Phone%20App/Push%20Puzzle.zip
 
