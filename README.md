@@ -115,7 +115,7 @@ A small trailer of Push Puzzle, my first experimental gameplay prototype.
 <!-- [![](http://i3.ytimg.com/vi/n22Df-4jPH8/hqdefault.jpg)][video] -->
 [![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/MabC8lIM4LnPzuFVZD.gif)][video]
 
-[YouTube][video] [via GIPHY](https://giphy.com/gifs/MabC8lIM4LnPzuFVZD]
+[YouTube][video] [via GIPHY](https://giphy.com/gifs/MabC8lIM4LnPzuFVZD)
 
 [video]: https://youtu.be/n22Df-4jPH8
 
