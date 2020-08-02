@@ -6,14 +6,13 @@ The April theme for [Experimental Gameplay Project] is [Wash, Rinse, and REPEAT]
 
 Screenshots
 ---
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/push%20puzzle%201.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/push%20puzzle%202.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/push%20puzzle%203.png)
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Blog/push%20puzzle%201.png)
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Blog/push%20puzzle%202.png)
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Blog/push%20puzzle%203.png)
 
 Download Executable
 ---
 [Push Puzzle.zip][zip] (6.69 MB)
-
 
 Instructions
 ---
@@ -21,11 +20,9 @@ You can slide the puzzle blocks using with mouse <kbd>LEFT BUTTON</kbd>. The top
 
 But if you make a mess you have to repeat the level.
 
-
 Troubleshooting
 ---
 If you have problems getting the game to run. You should install [.NET Framework 4.0] and [XNA Framework Redistributable 4.0].
-
 
 Credits
 ---
@@ -39,14 +36,11 @@ Credits
 
 - Code Samples: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf].
 
-
 License
 ---
-
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/cc.png)
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
-
 
 Reviews
 ---
@@ -80,26 +74,23 @@ Reviews
 [Blogger](https://bitsits.blogspot.com/2010/04/push-puzzle.html)
 [Tumblr](https://bitsits.tumblr.com/post/96178291080/push-puzzle-the-april-theme-for-experimental)
 
-
 Push Puzzle in Marketplace
 ===
-
 [Push Puzzle] my first prototype is my first game in theWindows Phone Marketplace. I will be submitting the game for [“Build Your Dreams with Windows Phone 7”] Applications contest.
 
 Zune Deep link: http://www.windowsphone.com/en-US/apps/df14a58e-935c-e011-854c-00237de2db9e
 
 Screenshots
 ---
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%201.png)
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%202.png)
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%203.png)
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%204.png)
 
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%201.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%202.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%203.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%204.png)
-
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%205.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%206.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%207.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%208.png)
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%205.png)
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%206.png)
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%207.png)
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%208.png)
 
 [Push Puzzle]: https://bitsits.blogspot.com/2010/04/push-puzzle.html
 [“Build Your Dreams with Windows Phone 7”]: http://www.microsoft.com/india/student/Buildyourdream.aspx
@@ -113,7 +104,7 @@ Push Puzzle Trailer
 A small trailer of Push Puzzle, my first experimental gameplay prototype.
 
 <!-- [![](http://i3.ytimg.com/vi/n22Df-4jPH8/hqdefault.jpg)][video] -->
-[![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/MabC8lIM4LnPzuFVZD.gif)][video]
+[![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Blog/MabC8lIM4LnPzuFVZD.gif)][video]
 
 [YouTube][video] [via GIPHY](https://giphy.com/gifs/MabC8lIM4LnPzuFVZD)
 
