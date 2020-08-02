@@ -120,4 +120,4 @@ A small trailer of Push Puzzle, my first experimental gameplay prototype.
 [video]: https://youtu.be/n22Df-4jPH8
 
 [Blogger](https://bitsits.blogspot.com/2011/09/push-puzzle-trailer.html)
-[Tumblr](https://bitsits.tumblr.com/post/96212381265/push-puzzle-trailer-a-small-trailer-of-push/
+[Tumblr](https://bitsits.tumblr.com/post/96212381265/push-puzzle-trailer-a-small-trailer-of-push/)
