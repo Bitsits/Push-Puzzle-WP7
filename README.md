@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Windows%20Phone%20App/Push%20Puzzle%20Mobile%20Large.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Mobile%20Large.png)
 
 Push Puzzle
 ===
@@ -6,9 +6,9 @@ The April theme for [Experimental Gameplay Project] is [Wash, Rinse, and REPEAT]
 
 Screenshots
 ---
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Blog/push%20puzzle%201.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Blog/push%20puzzle%202.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Blog/push%20puzzle%203.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/push%20puzzle%201.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/push%20puzzle%202.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/push%20puzzle%203.png)
 
 Download Executable
 ---
@@ -43,7 +43,7 @@ Credits
 License
 ---
 
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Blog/cc.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
@@ -63,8 +63,6 @@ Reviews
 
 [MIT License]: http://www.opensource.org/licenses/mit-license.php
 [Creative Commons Sampling Plus 1.0 License]: http://creativecommons.org/licenses/sampling+/1.0/
-[Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic]: http://creativecommons.org/licenses/by-nc/2.0/
-[Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Brazil]: http://creativecommons.org/licenses/by-nc-sa/2.5/br/
 [Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-nd/3.0/
 [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
@@ -74,13 +72,13 @@ Reviews
 
 [Experimental Gameplay Project]: http://experimentalgameplay.com/
 [theme]: http://experimentalgameplay.com/blog/2010/04/in-april-wash-rinse-and-repeat/
-[zip]: https://github.com/BitSits/Push-Puzzle/raw/master/Windows%20Phone%20App/Push%20Puzzle.zip
+[zip]: https://github.com/BitSits/Push-Puzzle-Assets/raw/master/Windows%20Phone%20App/Push%20Puzzle.zip
 
 [Best of the Net: Repeat]: http://experimentalgameplay.com/blog/2010/04/best-of-the-net-repeat/
 [Experimental Games Project – April – Repeat]: http://www.gamerswithjobs.com/node/50186
 
 [Blogger](https://bitsits.blogspot.com/2010/04/push-puzzle.html)
-[Tumblr](http://bitsits.tumblr.com/post/96178291080/push-puzzle-the-april-theme-for-experimental)
+[Tumblr](https://bitsits.tumblr.com/post/96178291080/push-puzzle-the-april-theme-for-experimental)
 
 
 Push Puzzle in Marketplace
@@ -93,20 +91,21 @@ Zune Deep link: http://www.windowsphone.com/en-US/apps/df14a58e-935c-e011-854c-0
 Screenshots
 ---
 
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%201.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%202.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%203.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%204.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%201.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%202.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%203.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%204.png)
 
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%205.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%206.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%207.png)
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%208.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%205.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%206.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%207.png)
+![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Screenshot%208.png)
 
 [Push Puzzle]: https://bitsits.blogspot.com/2010/04/push-puzzle.html
 [“Build Your Dreams with Windows Phone 7”]: http://www.microsoft.com/india/student/Buildyourdream.aspx
 
 [Blogger](https://bitsits.blogspot.com/2011/04/push-puzzle-in-marketplace.html)
+[Tumblr](https://bitsits.tumblr.com/post/96209810130/push-puzzle-in-marketplace-push-puzzle-my-first)
 
 Push Puzzle Trailer
 ---
@@ -114,11 +113,11 @@ Push Puzzle Trailer
 A small trailer of Push Puzzle, my first experimental gameplay prototype.
 
 <!-- [![](http://i3.ytimg.com/vi/n22Df-4jPH8/hqdefault.jpg)][video] -->
-[![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle/master/Blog/MabC8lIM4LnPzuFVZD.gif)][video]
+[![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Blog/MabC8lIM4LnPzuFVZD.gif)][video]
 
-<p><a href="https://giphy.com/gifs/demo-push-puzzle-bitsits-games-MabC8lIM4LnPzuFVZD">via GIPHY</a></p>
-
-[Blogger](https://bitsits.blogspot.com/2011/09/push-puzzle-trailer.html)
-[YouTube][video]
+[YouTube][video] [via GIPHY](https://giphy.com/gifs/MabC8lIM4LnPzuFVZD]
 
 [video]: https://youtu.be/n22Df-4jPH8
+
+[Blogger](https://bitsits.blogspot.com/2011/09/push-puzzle-trailer.html)
+[Tumblr](https://bitsits.tumblr.com/post/96212381265/push-puzzle-trailer-a-small-trailer-of-push/
