@@ -16,7 +16,7 @@ Download Executable
 
 Instructions
 ---
-You can slide the puzzle blocks using with mouse <kbd>LEFT BUTTON</kbd>. The top and the bottom block can slide vertically and side ones can slide horizontally.
+You can slide the puzzle blocks using with <kbd>TAP</kbd>. The top and the bottom block can slide vertically and side ones can slide horizontally.
 
 But if you make a mess you have to repeat the level.
 
