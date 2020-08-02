@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Bitsits/Push-Puzzle-Assets/master/Windows%20Phone%20App/Push%20Puzzle%20Mobile%20Large.png)
+![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Windows%20Phone%20App/Push%20Puzzle%20Mobile%20Small.png)
 
 Push Puzzle
 ===
