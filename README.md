@@ -38,8 +38,7 @@ Credits
 
 License
 ---
-![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Blog/cc.png)
-
+[![](https://github.com/Bitsits/Push-Puzzle-Assets/raw/master/Blog/cc.png)][Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]  
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
 Reviews
